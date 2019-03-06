@@ -1,3 +1,10 @@
 # tsg
 
-There is a lot to implement. Building weighted DB graph works. Merging unambiguous vertices is in progress.
+Scripts made for Genome sequencing technologies subject.
+
+Assembly
+Naive implementation of De Brujin Graph method.
+
+Filter
+...
+
